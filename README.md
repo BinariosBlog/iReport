@@ -9,3 +9,9 @@ Para que você consigo utilizar essa ferramenta, deverá realizar o download do 
 
 
 Aqui ire mostrar varios exemplo de relatórios que podem ser feitos com o iReport.
+
+Logo abaixo a exeplicação dos arquivos:
+
+*Map.jrxml*
+Neste arquivo se é encontrado um exemplo bem simples de um relatório de mapa para localização de um determinado objeto ou pessoa.
+
