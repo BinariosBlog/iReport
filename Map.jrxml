@@ -1,0 +1,7 @@
+public void relatorio(){
+
+listagemResultadoBusca = getClienteDao().consulta(cliente);
+HashMap paramRel = new HashMap();
+String nomeRelatorio = "relCliMap";
+gerarRelatorio(nomeRelatorio, paramRel, listagemResultadoBusca);
+}
